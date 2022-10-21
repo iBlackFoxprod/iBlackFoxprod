@@ -4,7 +4,7 @@
 <img align="right" alt="Dark" width="400" src="https://cdn.dribbble.com/users/189524/screenshots/2015037/01-darkness_400x300_v5.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iblackfoxprod&label=Profile%20views&color=0e75b6&style=flat" alt="iblackfoxprod" /> </p>
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **Software Development**
 
 - 📫 How to reach me **Dontreachme@gmail.com**
 
