@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Ali
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Heavitas&pause=1000&color=C33C3C&center=true&width=435&lines=Hello+I'm+Ali" alt="Typing SVG" /></a>
 #### A passionate FullStack developer from Morocco
 ![A passionate FullStack developer from Morocco](https://cdn.dribbble.com/users/230034/screenshots/4496104/media/6bfcdf6da338d3219f6f42cf00fc5d9a.gif)
 
