@@ -1,7 +1,8 @@
-<h2 align="center">Hi 👋, I'm Ali — a Software Engineer & Creative from Morocco 🇲🇦</h2>
+<h2 align="center">Hi 👋, I'm Ali — Software Engineer & Creative Technologist from Morocco 🇲🇦</h2>
 
 <p align="center">
-  Passionate about development, design, and turning ideas into reality. Always learning, always building.
+  💻 I love blending code, design, and hardware to bring ideas to life.<br>
+  🚀 Constantly exploring new tech, building projects, and sharing knowledge.
 </p>
 
 ---
@@ -86,10 +87,14 @@
 
 ---
 
-<img align="right" height="150" src="https://i.pinimg.com/564x/9e/26/9e/9e269e824aeb6159c4a3df56324e5b22.jpg" alt="Cool art" />
+### 🐍 Techy Contribution Animation
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/iBlackFoxProd/iBlackFoxProd/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iBlackFoxProd/iBlackFoxProd/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iBlackFoxProd/iBlackFoxProd/output/github-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/iBlackFoxProd/iBlackFoxProd/output/github-snake.svg" />
+</picture>
 
 ---
+
+<img align="right" height="150" src="https://i.pinimg.com/564x/9e/26/9e/9e269e824aeb6159c4a3df56324e5b22.jpg" alt="Cyberpunk art" />
