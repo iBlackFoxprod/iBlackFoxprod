@@ -87,14 +87,4 @@
 
 ---
 
-### 🐍 Techy Contribution Animation
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iBlackFoxProd/iBlackFoxProd/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iBlackFoxProd/iBlackFoxProd/output/github-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/iBlackFoxProd/iBlackFoxProd/output/github-snake.svg" />
-</picture>
-
----
-
 <img align="right" height="150" src="https://i.pinimg.com/564x/9e/26/9e/9e269e824aeb6159c4a3df56324e5b22.jpg" alt="Cyberpunk art" />
