@@ -1,4 +1,3 @@
-{"variant":"standard","title":"GitHub README First Page Design","id":"55001"}
 # Hi there, I'm Ali Bouzid 👋
 
 **Software Engineer | Full-Stack Developer | UI/UX Enthusiast**  
