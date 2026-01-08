@@ -1,4 +1,4 @@
-# Hi there, I'm Ali Bouzid 👋
+# Hi there, I'm Ali👋
 
 **Software Engineer | Full-Stack Developer | UI/UX Enthusiast**  
 
